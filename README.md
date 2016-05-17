@@ -5,10 +5,12 @@ Explore web
   * [www.pexels.com](https://www.pexels.com/) - Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license. All photos are nicely tagged, searchable and also easy to discover through our discover pages.
   * [unsplash.com](https://unsplash.com) - Free (do whatever you want) high-resolution photos.
   * [startupstockphotos.com](http://startupstockphotos.com/) - Free photos for startups, bloggers, publishers, websites, designers, developers, creators, & everyone else.
+  * [DepositPhotos](http://depositphotos.com) free stock photos,vectors, videos
   
 2. Carousel, Galleries and Sliders
   * [Flickity](http://flickity.metafizzy.co/) - Touch, Responsive flickable carousels
   * [FlexSlider 2](http://flexslider.woothemes.com/) - Good Responsive Slider
+  
 
 3. Animation CSS etc
   * [Animate.css](https://daneden.github.io/animate.css/) - Just-add-water CSS animations
