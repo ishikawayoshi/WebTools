@@ -19,3 +19,6 @@ Explore web
   * [Gentellela](https://github.com/puikinsh/gentelella) - Good free dashboard
   * [Colorlib](https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/) - Free Examples from Colorlib
 
+5. Digital Maps
+  * [datamaps.co](https://datamaps.co/) - Excelent maps graphics editor, with ability to export in svg
+
